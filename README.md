@@ -7,7 +7,14 @@ This is a transnational data set which contains all the transactions occurring b
 
 Data Source: <a href='https://archive.ics.uci.edu/dataset/352/online+retail'>Click Here</a>
 
-Columns available in the dataset : ['InvoiceNo', 'StockCode', 'Description', 'Quantity', 'InvoiceDate',
-       'UnitPrice', 'CustomerID', 'Country']
 
-       
+Columns available in the dataset is:
+
+InvoiceNo : a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation
+StockCode : a 5-digit integral number uniquely assigned to each distinct product
+Description : product name
+Quantity : the quantities of each product (item) per transaction
+InvoiceDate : the day and time when each transaction was generated	
+UnitPrice : product price per unit
+CustomerID : a 5-digit integral number uniquely assigned to each customer
+Country : the name of the country where each customer resides	

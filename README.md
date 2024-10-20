@@ -11,10 +11,11 @@ Data Source: <a href='https://archive.ics.uci.edu/dataset/352/online+retail'>Cli
 <h3>Columns available in the dataset is:</h3>
 <hr>
 <table>
-<th>
-<td>Column Name</td>
-<td>Descriptions</td>
+<tr>
+  <th>Column Name</th>
+<th>Descriptions</th>
 </th>
+</tr>
   <tr>
     <td>InvoiceNo</td>
     <td>a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation</td>

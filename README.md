@@ -8,7 +8,8 @@ This is a transnational data set which contains all the transactions occurring b
 Data Source: <a href='https://archive.ics.uci.edu/dataset/352/online+retail'>Click Here</a>
 
 
-Columns available in the dataset is:
+<h3>Columns available in the dataset is:</h3>
+<hr>
 
 InvoiceNo : a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation
 

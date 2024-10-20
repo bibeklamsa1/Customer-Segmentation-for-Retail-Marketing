@@ -8,7 +8,7 @@ This is a transnational data set which contains all the transactions occurring b
 Data Source: <a href='https://archive.ics.uci.edu/dataset/352/online+retail'>Click Here</a>
 
 
-<h3>Columns available in the dataset is:</h3>
+<h3>Columns available in the dataset are:</h3>
 <hr>
 <table>
 <tr>

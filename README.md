@@ -10,19 +10,46 @@ Data Source: <a href='https://archive.ics.uci.edu/dataset/352/online+retail'>Cli
 
 <h3>Columns available in the dataset is:</h3>
 <hr>
+<table>
+<th>
+<td>Column Name</td>
+<td>Descriptions</td>
+</th>
+  <tr>
+    <td>InvoiceNo</td>
+    <td>a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation</td>
+  </tr>
+   <tr>
+    <td>StockCode</td>
+    <td>a 5-digit integral number uniquely assigned to each distinct product</td>
+  </tr>
+   <tr>
+    <td>Description</td>
+    <td> product name</td>
+  </tr>
+   <tr>
+    <td>Quantity</td>
+    <td>the quantities of each product (item) per transaction</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>InvoiceDate</td>
+    <td>the day and time when each transaction was generated	</td>
+  </tr>
+   <tr>
+    <td>UnitPrice</td>
+    <td>product price per unit</td>
+  </tr>
+   <tr>
+    <td>CustomerID</td>
+    <td> a 5-digit integral number uniquely assigned to each customer</td>
+  </tr>
+    <tr>
+     <td>Country</td>
+    <td> the name of the country where each customer resides	</td>
+  </tr>
 
-InvoiceNo : a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation
-
-StockCode : a 5-digit integral number uniquely assigned to each distinct product
-
-Description : product name
-
-Quantity : the quantities of each product (item) per transaction
-
-InvoiceDate : the day and time when each transaction was generated	
-
-UnitPrice : product price per unit
-
-CustomerID : a 5-digit integral number uniquely assigned to each customer
-
-Country : the name of the country where each customer resides	
+</table>
